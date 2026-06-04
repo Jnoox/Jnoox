@@ -51,6 +51,7 @@ A software engineer who likes building things that actually solve real problems.
 
 ### 📫 How to reach me?
 - 🌐 **Portfolio:** [jana-sandeyouni-portfolio.netlify.app](https://jana-sandeyouni-portfolio.netlify.app/)
+- 💼 **LinkedIn:** [jana-sandeyouni](https://www.linkedin.com/in/jana-sandeyouni/)
 - 💻 **GitHub:** [@Jnoox](https://github.com/Jnoox)
 - 🎨 **Behance:** [jana-sandeyouni](https://www.behance.net/jana-sandeyouni)
 
