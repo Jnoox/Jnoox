@@ -7,8 +7,8 @@ Curious by default. Always up for building something useful.
 
 🚀 **What am I currently working on?**
 - 🧠 Frontend Developer at **Luminary**, an AI-powered mobile app for university students in Saudi Arabia.
-- 🎙️ Building **SpeakEase** solo, an AI speaking coach app, taking it from PRD all the way to deployment.
-- 🔍 Building the frontend for **[Adheed](https://github.com/Jnoox/Adheed-Frontend)**, an Arabic-first, AI-assisted investigation platform.
+- 🔍 Building the frontend for **[Adheed](https://adheed-saudi.netlify.app/)**, an Arabic-first, AI-assisted investigation platform ([code](https://github.com/Jnoox/Adheed-Frontend)).
+- 🪐 Building my **[3D portfolio](https://jana-sandeyouni-portfolio.netlify.app/)** with React Three Fiber, featuring a room you scroll through, a tech-stack cloud you can play with, and an avatar that catches whatever you click.
 - 🎨 Sharpening my UI/UX skills so what I build feels as good as it works.
 
 💼 **Open to** full-time, part-time, and freelance roles, whether remote or in Jeddah / Riyadh.
