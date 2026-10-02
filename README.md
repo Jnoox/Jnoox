@@ -6,9 +6,12 @@ Frontend by habit across web and mobile — full-stack on the web, junior full-s
 Curious by default. Always up for building something useful.
 
 🚀 **What am I currently working on?**
-- Building full-stack web and mobile apps with React, React Native, and Django
-- Sharpening my UI/UX design skills to make the things I build feel as good as they work
-- Exploring new tools and frameworks whenever something catches my eye
+- 🧠 Frontend Developer at **Luminary**, an AI-powered mobile app for university students in Saudi Arabia, and leading its dev team
+- 🎙️ Building **SpeakEase** solo, an AI speaking coach app, taking it from PRD all the way to deployment
+- 🔍 Building the frontend for **[Adheed](https://github.com/Jnoox/Adheed-Frontend)**, an Arabic-first, AI-assisted investigation platform
+- 🎨 Sharpening my UI/UX skills so what I build feels as good as it works
+
+💼 **Open to** full-time, part-time, and freelance roles, whether remote or in Jeddah / Riyadh.
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://jana-sandeyouni-portfolio.netlify.app/) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/jana-sandeyouni) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jana-sandeyouni/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jana.sandeyouni@gmail.com)
